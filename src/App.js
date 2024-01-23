@@ -225,7 +225,7 @@ export default class App extends Component {
             >
               <PlusCircleOutlined />
               {' '}
-  Ajouter une radio
+  Add a radio
             </Button>
             <br />
             <br />
